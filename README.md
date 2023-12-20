@@ -16,7 +16,11 @@ Don't forget to give the project a star! Thanks again!
 ## Thanks
 
 - guillaume-fbz
+
 - marc-alexandre-crls
+
+- kilian-mlz
+
 
 ## License
 
